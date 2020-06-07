@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I’m a lead econometrician at [Ingress Health](https://www.ingress-health.com/), working on statistical models applied in health economics and real world evidence. I have a master in Econometrics from the [Erasmus university](https://www.eur.nl/en/) in Rotterdam, where I focussed on Operations Research and Quantitative Logistics.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+After spending a couple years in Asia to work on some challenging problems in the energy sector, I relocated back to the Netherlands in 2019. Here I started working at [Ingress Health](https://www.ingress-health.com/), combining my interest in econometrics with medicine (which I briefly studied in Groningen).
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My main focus is on advanced analytical methods applied in health economics, varying from Bayesian survival extrapolation to utility analyses. 
