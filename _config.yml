@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Andre Verhoek
+title: Data and algorithm explorations
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -82,10 +82,10 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-168801139-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-168801139-1"
 
 # Google Tag Manager ID
 #gtm: ""
