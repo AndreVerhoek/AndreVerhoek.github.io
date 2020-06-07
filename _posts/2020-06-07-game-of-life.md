@@ -13,6 +13,6 @@ The Game of Life is a cellular automaton, devised by mathematician John Horton C
 3.  Dead cells that have 3 neighbours become alive (reproduction)
 4.  Otherwise, there is no chance in state.
 
-Applying that creates some great effects in a random world and is fun to play around with. I've created an RShiny tool to play around with different generations and sizes, feel free to have a [look!](https://github.com/AndreVerhoek/game-of-life).
+Applying that creates some great effects in a random world and is fun to play around with. I've created an RShiny tool to play around with different generations and sizes, feel free to have a [try](https://andreverhoek.shinyapps.io/GameOfLife/) or have a look at the [code](https://github.com/AndreVerhoek/game-of-life)).
 
 ![Example of Game of Life](https://media.giphy.com/media/Q5RoPWTdBUtyXjasPh/giphy.gif)
