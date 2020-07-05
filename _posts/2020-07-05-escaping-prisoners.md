@@ -23,7 +23,7 @@ This sounds almost too good to be true, so let's visualize the process
 to see the results. First, we look what happens if 20 (for sake of
 visualization) prisoners open 10 boxes random:
 
-![random-walk](https://github.com/AndreVerhoek/AndreVerhoek.github.io/blob/master/images/prisoners-1.png)
+![random-walk](AndreVerhoek/AndreVerhoek.github.io/blob/master/images/prisoners-1.png)
 
 As expected, almost every path, defined as going from box *x* to box
 *y*, is being used. We see that the chances of finding their own name
@@ -31,7 +31,7 @@ are independent and thus the probability of release is
 0.5<sup>50</sup> ≈ 0. Now when using the approach of numbering the
 prisoners and following the numbers we immediately see a pattern:
 
-![ordered-walk](https://github.com/AndreVerhoek/AndreVerhoek.github.io/blob/master/images/ordered-1.png)
+![ordered-walk](AndreVerhoek/AndreVerhoek.github.io/blob/master/images/ordered-1.png)
 
 Now from every box there are only two other boxes connected: where the
 prisoners come from and whereto they leave. Instead of independent
