@@ -23,7 +23,7 @@ This sounds almost too good to be true, so let's visualize the process
 to see the results. First, we look what happens if 20 (for sake of
 visualization) prisoners open 10 boxes random:
 
-![](images/prisoners-1.png)
+![](images/prisoners-1.png?raw=true)
 
 As expected, almost every path, defined as going from box *x* to box
 *y*, is being used. We see that the chances of finding their own name
@@ -31,7 +31,7 @@ are independent and thus the probability of release is
 0.5<sup>50</sup> ≈ 0. Now when using the approach of numbering the
 prisoners and following the numbers we immediately see a pattern:
 
-![](images/ordered-1.png)
+![](images/ordered-1.png?raw=true)
 
 Now from every box there are only two other boxes connected: where the
 prisoners come from and whereto they leave. Instead of independent
@@ -51,7 +51,5 @@ than 25 and would fail. As example we take a cycle length of 30:
 We know that the total number of sequences is 50!. Now we can calculate
 the chance:
 
-$\\frac{(\\matrix{50 \\\\ 30}) \\cdot 29! \\cdot 20!}{50!} = \\frac{\\frac{50!}{30!20!} \\cdot 29! \\cdot 20!}{50!} = \\frac{29!}{30!} = \\frac{1}{30}$
-Hence, the chance for a cycle with length *n* is $\\frac{1}{n}$ and it
-follows that the chance there is **no** cycle of larger than 25 is: $ 1
-- - - - = 0.31675...$
+(50 nCR 30 * 29! * 20!)/50! = ((50!)/30!20! * 29! * 20!)/ 50! = 29! / 30! = 1/30. Hence, the chance for a cycle with length *n* is 1/n and it
+follows that the chance there is **no** cycle of larger than 25 is: 1 - 1/26 - 1/27 - ... - 1/50 = 0.31675...
